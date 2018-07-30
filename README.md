@@ -1,5 +1,5 @@
 # CSCI-1200-Battleship
-RPI CSCI-1200 Data Structures, Fall 2015/Spring 2016, Homework 6 - Battleship Recursion <br />
+RPI CSCI-1200 Data Structures, Fall 2015/Spring 2016/Spring 2018, Homework 6 - Battleship Recursion <br />
 By Erebuxy and [Huang-1137](https://github.com/Huang-1137)
 
 ## Usage
@@ -38,3 +38,4 @@ Command | # of Solutions | Runtime
 ## Reference
 * http://www.cs.rpi.edu/academics/courses/fall15/csci1200/
 * http://www.cs.rpi.edu/academics/courses/spring16/csci1200/
+* http://www.cs.rpi.edu/academics/courses/spring18/csci1200
